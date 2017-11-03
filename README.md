@@ -1,6 +1,5 @@
 # install-canvas-in-centos
-centos 安装canvas
-# nodejs 使用canvas模块生成图片
+## centos 安装canvas
 
 - 环境centos 7,centos 6.5
 - canvas 模块版本1.6.7
@@ -41,5 +40,6 @@ canvas 模块依赖Cairo and Pango 软件.
 
 canvas模块github地址[这里](https://github.com/Automattic/node-canvas)
 
+### nodejs 使用canvas模块生成图片
 ### Centos 安装苹方字体[传送](./install-fonts.md)
 
