@@ -40,6 +40,6 @@ canvas 模块依赖Cairo and Pango 软件.
 
 canvas模块github地址[这里](https://github.com/Automattic/node-canvas)
 
-### nodejs 使用canvas模块生成图片
+### nodejs 使用canvas模块生成图片[代码](./createimg.js)
 ### Centos 安装苹方字体[传送](./install-fonts.md)
 
