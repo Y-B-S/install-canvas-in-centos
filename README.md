@@ -41,3 +41,5 @@ canvas 模块依赖Cairo and Pango 软件.
 
 canvas模块github地址[这里](https://github.com/Automattic/node-canvas)
 
+### Centos 安装苹方字体[传送](./install-fonts.md)
+
